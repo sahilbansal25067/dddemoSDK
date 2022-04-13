@@ -3,4 +3,7 @@ public struct demoSDK {
 
     public init() {
     }
+    public func  stringCreator()->String {
+        return "jbfibehbihfbhfehe"
+    }
 }
